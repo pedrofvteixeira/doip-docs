@@ -140,7 +140,7 @@ To craft a magic item, you and any assistants must have proficiency in the requi
 | Item Rarity | Days\* | Cost\*     |
 | ----------- | ----------- | ---------- |
 | Common      | 5           | 50 gp      |
-| Uncommon    | 10          | 200 gp     |
+| Uncommon    | 10          | 300 gp     |
 | Rare        | 50          | 2,000 gp   |
 | Very rare   | 125         | 20,000 gp  |
 | Legendary   | 250         | 100,000 gp |

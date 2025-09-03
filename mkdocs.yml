@@ -34,6 +34,8 @@ nav:
     - downtime.md
     - bastions.md
     - Harvesting Monsters: harvesting.md
+    - arrow-list.md
+    - special-materials.md
 extra:
   generator: false
 copyright: Copyright &copy; 2025 Ironflame Guild
